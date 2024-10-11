@@ -1,0 +1,20 @@
+Aho-Corasick (AC): An efficient string-searching algorithm for finding multiple patterns in a text simultaneously. It builds a state machine from all the patterns and processes the input text in a single pass.
+
+Knuth-Morris-Pratt (KMP): A string-matching algorithm that pre-processes the pattern to avoid redundant comparisons, improving the search time for patterns in text.
+
+Rabin-Karp: Uses hashing to find any one of a set of pattern strings in a text. It is especially effective for detecting plagiarism or finding multiple pattern matches.
+
+Simple Sieve of Eratosthenes: A classical algorithm for finding all prime numbers up to a specified integer. It iteratively marks the multiples of each prime starting from 2.
+
+Segment Tree: A data structure used to store information about intervals or segments. It allows querying and updating intervals efficiently, used in range query problems.
+
+Disjoint Set Union (Union-Find): A data structure that tracks a set of elements partitioned into disjoint (non-overlapping) sets, often used to detect cycles in a graph or in network connectivity problems.
+
+Tarjan’s Algorithm: Used to find strongly connected components in a directed graph and also to find articulation points (or cut vertices) and bridges in an undirected graph.
+
+Floyd-Warshall Algorithm: Solves the all-pairs shortest path problem for a weighted graph, where the weights may be negative. It works by considering all possible paths between each pair of vertices.
+
+Crucial Path Method (CPM): Used in project management, this algorithm determines the longest path in a directed acyclic graph (DAG), representing the sequence of critical tasks that determine the project duration.
+
+Simplex Algorithm: Used for solving linear programming problems, where the objective is to maximize or minimize a linear function subject to linear constraints.
+
